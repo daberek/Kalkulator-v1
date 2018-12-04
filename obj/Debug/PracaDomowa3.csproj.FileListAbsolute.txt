@@ -1,0 +1,7 @@
+D:\programy c#\PracaDomowa3\PracaDomowa3\obj\Debug\PracaDomowa3.csprojAssemblyReference.cache
+D:\programy c#\PracaDomowa3\PracaDomowa3\obj\Debug\PracaDomowa3.csproj.CoreCompileInputs.cache
+D:\programy c#\PracaDomowa3\PracaDomowa3\bin\Debug\PracaDomowa3.exe.config
+D:\programy c#\PracaDomowa3\PracaDomowa3\bin\Debug\PracaDomowa3.exe
+D:\programy c#\PracaDomowa3\PracaDomowa3\bin\Debug\PracaDomowa3.pdb
+D:\programy c#\PracaDomowa3\PracaDomowa3\obj\Debug\PracaDomowa3.exe
+D:\programy c#\PracaDomowa3\PracaDomowa3\obj\Debug\PracaDomowa3.pdb
